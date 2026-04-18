@@ -13,7 +13,7 @@ do
 		fi
 done
 
-echo "dir count : $folder_count"
-echo "file count : $file_count"
+echo "파일 수: $file_count"
+echo "디렉토리 수: $folder_count"
 
 exit 0
